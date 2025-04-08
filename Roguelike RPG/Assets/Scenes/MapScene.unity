@@ -165,6 +165,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   layouts:
   - {fileID: 5198364241102040512, guid: c6f9b337f87c9b846a6a95d635be730a, type: 3}
+  mapEvents:
+  - {fileID: 4453163870570818680, guid: 660bb17d5524fee4a95b62f6021091b8, type: 3}
+  - {fileID: 744501518431067623, guid: 1c3e87aae3b4d8d4098711760081ebf5, type: 3}
+  - {fileID: 4880834169669967861, guid: 1b3e863169eb9f64a8f64b3bb73f7c80, type: 3}
+  - {fileID: 8504819344988591944, guid: cd173d7f4606b7f4ba04f98fcab32fc4, type: 3}
+  - {fileID: 1179006719742608029, guid: 52e5ce4669b5bf54882f4d39207a8ee0, type: 3}
+  - {fileID: 7447166539911375468, guid: 0cecf6d46604bd649b7b70875e4e7177, type: 3}
 --- !u!1 &1549300229
 GameObject:
   m_ObjectHideFlags: 0
