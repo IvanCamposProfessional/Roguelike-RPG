@@ -84,22 +84,28 @@ public class MapGenerator : MonoBehaviour
                         switch(randomEvent){
                             //Case 1 = chest
                             case 1:
-                                //Create a loop to check the bool array of the chests
-                                for(int j = 0; j < chests.Length; j++){
-                                    //If the chests array position corresponding to the iteration of the loop is false
-                                    if(chests[j] == false){
-                                        //Instantiate the GameObject of the chest on the transform corresponding to the iteration on the first loop
-                                        Instantiate(mapEvents[0], transforms[i].GetComponent<Transform>());
-                                        //Set the bool array chest position to true on the corresponding iteration of the second loop
-                                        chests[j] = true;
-                                        //End the switch and continue with the next loop iteration
-                                         continue;
+                                //If the last postiion of the bool chests array is true means that the array is full
+                                //And we want to repeat the iteration of the first loop
+                                //We don´t control if all the chests bool is true but with the logic we have if the last position
+                                //is true all the rest has to be true too
+                                if(chests[chests.Length - 1] == true){
+                                    i--;
+                                    break;
+                                //If the array is not full
+                                }else{
+                                    //Create a loop to check the bool array of the chests
+                                    for(int j = 0; j < chests.Length; j++){
+                                        //If the chests array position corresponding to the iteration of the loop is false
+                                        if(chests[j] == false){
+                                            //Instantiate the GameObject of the chest on the transform corresponding to the iteration on the first loop
+                                            Instantiate(mapEvents[0], transforms[i].GetComponent<Transform>());
+                                            //Set the bool array chest position to true on the corresponding iteration of the second loop
+                                            chests[j] = true;
+                                            //End the switch and continue with the next loop iteration
+                                             break;
+                                        }
                                     }
                                 }
-                                //We dont want to continue with the next iteration of the first loop so we have to set the iteration to one less before this break
-                                //If we dont do that will i++ and continue with the next iteration
-                                i--;
-                                break;
                             //Case 2 = Combats
                             case 2:
                                 //Create a loop to check the bool array of the combats
