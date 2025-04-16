@@ -15,6 +15,7 @@ public enum MonsterType{
 [CreateAssetMenu(fileName = "New Monster", menuName = "Scriptable Objects/Monster")]
 public class Monster : ScriptableObject
 {
+    [Header("Basic Data")]
     //Create all the variables of the monster scriptable object and serialize it all to change it from the object inspector
     [SerializeField] private String monsterName;
     [SerializeField] private String description;
@@ -22,6 +23,9 @@ public class Monster : ScriptableObject
     //Para operar con ella, por ejemplo checkear si un monster es de un tipo, puedo hacer "if(Monster.Type == MonsterType.Flesh)"
     [SerializeField] MonsterType type;
     [SerializeField] private Sprite monsterSprite;
+
+    [Space]
+    [Header("Stats")]
     [SerializeField] private int healthPoints;
     [SerializeField] private int manaPoints;
     [SerializeField] private int specialAttackCharges;
@@ -30,8 +34,14 @@ public class Monster : ScriptableObject
     [SerializeField] private int defense;
     [SerializeField] private int arcaneDefense;
     [SerializeField] private int velocity;
+
+    [Space]
+    [Header("Object & Debuffs")]
     [SerializeField] private String debuff;
     [SerializeField] private String debuffCounter;
+
+    [Space]
+    [Header("Level System")]
     [SerializeField] private int currentLevel;
     [SerializeField] private int currentExp;
 }
