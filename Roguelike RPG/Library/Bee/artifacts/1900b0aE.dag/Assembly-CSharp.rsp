@@ -440,8 +440,9 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.0.44f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.0.44f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.0.44f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
-"Assets/Scripts/Combat/Objects/Attack.cs"
-"Assets/Scripts/Combat/Objects/Monster.cs"
+"Assets/Scripts/Combat/ScriptableObjects/Attack.cs"
+"Assets/Scripts/Combat/ScriptableObjects/Monster.cs"
+"Assets/Scripts/Inventory & Crafting/ScriptableObjects/Material.cs"
 "Assets/Scripts/Map/MapGenerator.cs"
 -langversion:9.0
 /deterministic

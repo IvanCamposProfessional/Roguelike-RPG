@@ -326,7 +326,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts/Combat/Objects
+    - Assets/Scripts/Inventory & Crafting/ScriptableObjects
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -336,7 +336,7 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scripts/Combat/Objects
+  - Assets/Scripts/Inventory & Crafting/ScriptableObjects
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\piruz\Desktop\Proyectos\Roguelike RPG - Main Folder\Roguelike
     RPG
@@ -344,9 +344,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: d0b00000
-    m_LastClickedID: 45264
-    m_ExpandedIDs: 0000000032b000008cb00000d2b0000000ca9a3bffffff7f
+    m_SelectedIDs: 70b10000
+    m_LastClickedID: 45424
+    m_ExpandedIDs: 0000000032b000008cb00000d2b0000038b1000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
