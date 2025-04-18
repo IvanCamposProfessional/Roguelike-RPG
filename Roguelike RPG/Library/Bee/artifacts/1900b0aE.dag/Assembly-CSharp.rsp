@@ -442,7 +442,8 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.0.44f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
 "Assets/Scripts/Combat/ScriptableObjects/Attack.cs"
 "Assets/Scripts/Combat/ScriptableObjects/Monster.cs"
-"Assets/Scripts/Inventory & Crafting/ScriptableObjects/Material.cs"
+"Assets/Scripts/Combat/ScriptableObjects/PassiveAbility.cs"
+"Assets/Scripts/Inventory & Crafting/ScriptableObjects/Item.cs"
 "Assets/Scripts/Map/MapGenerator.cs"
 -langversion:9.0
 /deterministic

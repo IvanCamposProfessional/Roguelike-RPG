@@ -1,9 +1,6 @@
 using System;
-using JetBrains.Annotations;
 using Microsoft.Unity.VisualStudio.Editor;
 using UnityEngine;
-using System.Collections;
-using UnityEditor;
 using System.Collections.Generic;
 
 //Create the asset menu to create the attack scriptable objects on the menu inspector
@@ -12,8 +9,8 @@ public class Attack : ScriptableObject
 {
     [Header("Basic Data")]
     //Create all the variables of the atack scriptable object and serialize it all to change it from the object inspector
-    [SerializeField] private String attackName;
-    [SerializeField] private String description;
+    [SerializeField] private string attackName;
+    [SerializeField] private string description;
 
     [Space]
     [Header("Icon & Animation")]
