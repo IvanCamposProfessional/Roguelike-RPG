@@ -31,7 +31,7 @@ public class Monster : ScriptableObject
     [Header("Stats")]
     [SerializeField] private int healthPoints;
     [SerializeField] private int manaPoints;
-    [SerializeField] private int specialAttackCharges;
+    [SerializeField] private int voidShards;
     [SerializeField] private int damage;
     [SerializeField] private int arcaneDamage;
     [SerializeField] private int defense;
@@ -72,10 +72,12 @@ public class Monster : ScriptableObject
     }
     //Create a list with the structure of level/experienceToLevelUp called level system and define it
     [SerializeField]
-    private List<LevelExperiencePair> levelSystem = new List<LevelExperiencePair>(){
+    private List<LevelExperiencePair> levelSystem = new List<LevelExperiencePair>();/*{
         new LevelExperiencePair { level = 2, experienceToLevelUp = 1000 },
-        new LevelExperiencePair { level = 3, experienceToLevelUp = 1200 }
-    };
+        new LevelExperiencePair { level = 3, experienceToLevelUp = 1200 },
+        new LevelExperiencePair { level = 2, experienceToLevelUp = 1400 },
+        new LevelExperiencePair { level = 2, experienceToLevelUp = 1600 }
+    };*/
 
     [Space]
     [Header("Evolution System")]
@@ -138,9 +140,9 @@ public class Monster : ScriptableObject
         set { manaPoints = value; }
     }
 
-    public int SpecialAttackCharges{
-        get { return specialAttackCharges; }
-        set { specialAttackCharges = value; }
+    public int VoidShards{
+        get { return voidShards; }
+        set { voidShards = value; }
     }
 
     public int Damage{
@@ -333,6 +335,17 @@ public class Monster : ScriptableObject
     }
 
     //OTHER FUNCTIONS
+    //Function to make the monster take damage from any source
+    public int TakeDamage(int damageAmount){
+        healthPoints -= damageAmount;
+
+        if(healthPoints < 0){
+            healthPoints = 0;
+        }
+
+        return healthPoints;
+    }
+
     //Function to check if the monster leveled up
     public bool CheckLevelUp(){
         if(currentExp >= GetExperienceToLevelUp(currentLevel)){
@@ -341,6 +354,23 @@ public class Monster : ScriptableObject
             return true;
         }else{
             return false;
+        }
+    }
+
+    //We want to set up the level system when the monster object gets created
+    void OnEnable()
+    {
+        levelSystem.Clear();
+        int baseExperience = 1000;
+
+        for(int actualLevel = 2; actualLevel <= 150; actualLevel++){
+            int actualExperienceToLevelUp = (int)(baseExperience * Math.Pow(1.021, actualLevel - 2)); //2.1% more per level (1.021 is 2.1%, 1.1 is 10%)
+
+            levelSystem.Add(new LevelExperiencePair
+            {
+                level = actualLevel,
+                experienceToLevelUp = actualExperienceToLevelUp
+            });
         }
     }
 }

@@ -10,7 +10,7 @@ public enum ItemType{
 public class Item : ScriptableObject
 {
     [SerializeField] private string itemName;
-    [SerializeField] private string description;
+    [SerializeField] private string itemDescription;
     [SerializeField] private ItemType type;
     [SerializeField] private int maxStackSize;
 
@@ -20,9 +20,20 @@ public class Item : ScriptableObject
         set { itemName = value; }
     }
 
+    public string ItemDescription{
+        get { return itemDescription; }
+        set { itemDescription = value; }
+    }
+
     public ItemType Type
     {
         get { return type; }
         set { type = value; }
+    }
+
+    public int MaxStackSize
+    {
+        get { return maxStackSize; }
+        set { maxStackSize = value; }
     }
 }
