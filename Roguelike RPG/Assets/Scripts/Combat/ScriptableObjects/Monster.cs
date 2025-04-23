@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using Unity.VisualScripting;
 using UnityEngine;
+using UnityEngine.Rendering;
 
 //Create an enum to set the monster types
 public enum MonsterType{
@@ -29,9 +30,12 @@ public class Monster : ScriptableObject
 
     [Space]
     [Header("Stats")]
-    [SerializeField] private int healthPoints;
-    [SerializeField] private int manaPoints;
-    [SerializeField] private int voidShards;
+    [SerializeField] private int currentHealthPoints;
+    [SerializeField] private int maxHealthPoints;
+    [SerializeField] private int currentManaPoints;
+    [SerializeField] private int maxManaPoints;
+    [SerializeField] private int currentVoidShards;
+    [SerializeField] private int maxVoidShards;
     [SerializeField] private int damage;
     [SerializeField] private int arcaneDamage;
     [SerializeField] private int defense;
@@ -130,20 +134,36 @@ public class Monster : ScriptableObject
     }
 
     //GETTERS & SETTERS STATS
-    public int HealthPoints{
-        get { return healthPoints; }
-        set { healthPoints = value; }
+    public int CurrentHealthPoints{
+        get { return currentHealthPoints; }
+        set { currentHealthPoints = value; }
     }
 
-    public int ManaPoints{
-        get { return manaPoints; }
-        set { manaPoints = value; }
+    public int MaxHealthPoints{
+        get { return maxHealthPoints; }
+        set { maxHealthPoints = value; }
     }
 
-    public int VoidShards{
-        get { return voidShards; }
-        set { voidShards = value; }
+    public int CurrentManaPoints{
+        get { return currentManaPoints; }
+        set { currentManaPoints = value; }
     }
+
+    public int MaxManaPoints{
+        get { return maxManaPoints; }
+        set { maxManaPoints = value; }
+    }
+
+    public int CurrentVoidShards{
+        get { return currentVoidShards; }
+        set { currentVoidShards = value; }
+    }
+
+    public int MaxVoidShards{
+        get { return maxVoidShards; }
+        set { maxVoidShards = value; }
+    }
+
 
     public int Damage{
         get { return damage; }
@@ -337,13 +357,13 @@ public class Monster : ScriptableObject
     //OTHER FUNCTIONS
     //Function to make the monster take damage from any source
     public int TakeDamage(int damageAmount){
-        healthPoints -= damageAmount;
+        currentHealthPoints -= damageAmount;
 
-        if(healthPoints < 0){
-            healthPoints = 0;
+        if(currentHealthPoints < 0){
+            currentHealthPoints = 0;
         }
 
-        return healthPoints;
+        return currentHealthPoints;
     }
 
     //Function to check if the monster leveled up

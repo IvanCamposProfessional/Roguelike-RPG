@@ -11,6 +11,7 @@ public class Item : ScriptableObject
 {
     [SerializeField] private string itemName;
     [SerializeField] private string itemDescription;
+    [SerializeField] private Sprite itemIcon;
     [SerializeField] private ItemType type;
     [SerializeField] private int maxStackSize;
 
@@ -23,6 +24,11 @@ public class Item : ScriptableObject
     public string ItemDescription{
         get { return itemDescription; }
         set { itemDescription = value; }
+    }
+
+    public Sprite ItemIcon{
+        get { return itemIcon; }
+        set { itemIcon = value; }
     }
 
     public ItemType Type

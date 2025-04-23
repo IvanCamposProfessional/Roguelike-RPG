@@ -14,21 +14,21 @@ public class Attack : ScriptableObject
 
     [Space]
     [Header("Icon & Animation")]
-    [SerializeField] private Image attackIcon;
+    [SerializeField] private Sprite attackIcon;
     [SerializeField] private Animation attackAnimation;
 
     [Space]
     [Header("Attack Stats")]
     //Can be normal or special
-    [SerializeField] private string attackType;
+    [SerializeField, Tooltip("Can be Normal or Special")] private string attackType;
     //Can be normal or arcane
-    [SerializeField] private string damageType;
+    [SerializeField, Tooltip("Can be Normal or Arcane")] private string damageType;
     //Si tengo problemas al trabajar con esta variable puedo cambiarla a un String
     //Para operar con ella, por ejemplo checkear si un attack es de un tipo, puedo hacer "if(Attack.AttackElement == MonsterType.Flesh)"
     [SerializeField] private MonsterType attackElement;
     [SerializeField] private int damage;
     //Can be HP, Mana, Turn Cost, etc
-    [SerializeField] private string costType;
+    [SerializeField, Tooltip("Can be HP, Mana, Turn Cost, etc")] private string costType;
     [SerializeField] private int cost;
     //How much of a turn will cost the attack, to manage the turns order
     [SerializeField] private int turnCost;
@@ -59,7 +59,7 @@ public class Attack : ScriptableObject
     }
 
     //GETTERS & SETTERS ICON & ANIMATION
-    public Image AttackIcon{
+    public Sprite AttackIcon{
         get { return attackIcon; }
         set { attackIcon = value; }
     }

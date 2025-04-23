@@ -445,6 +445,7 @@
 "Assets/Scripts/Combat/ScriptableObjects/PassiveAbility.cs"
 "Assets/Scripts/Inventory & Crafting/ScriptableObjects/Item.cs"
 "Assets/Scripts/Map/MapGenerator.cs"
+"Assets/Scripts/Player/MonsterInventory.cs"
 -langversion:9.0
 /deterministic
 /optimize+

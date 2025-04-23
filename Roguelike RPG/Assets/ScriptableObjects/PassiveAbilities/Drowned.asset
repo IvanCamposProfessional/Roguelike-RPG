@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf4655267d6aa224ebd388816462ad6f, type: 3}
+  m_Name: Drowned
+  m_EditorClassIdentifier: 
+  passiveAbilityName: Drowned
+  passiveAbilityDescription: Glub glub
+  passiveAbilityIcon: {fileID: 21300000, guid: 39b83f944de0652418bb14a842cb0ba6, type: 3}
+  effect: "You can\xB4t breath"

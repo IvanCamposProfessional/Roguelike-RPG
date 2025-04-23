@@ -1,0 +1,2210 @@
+fileFormatVersion: 2
+guid: 39b83f944de0652418bb14a842cb0ba6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6949464857739567663
+    second: Drowned_0
+  - first:
+      213: -2401526094939755359
+    second: Drowned_1
+  - first:
+      213: 3836256430957296305
+    second: Drowned_2
+  - first:
+      213: -3652047082543526633
+    second: Drowned_3
+  - first:
+      213: 4521282704617805648
+    second: Drowned_4
+  - first:
+      213: -2960070061550789135
+    second: Drowned_5
+  - first:
+      213: 6019601140651266175
+    second: Drowned_6
+  - first:
+      213: -3141557086599802316
+    second: Drowned_7
+  - first:
+      213: -8175240983476061813
+    second: Drowned_8
+  - first:
+      213: 5863200005755526490
+    second: Drowned_9
+  - first:
+      213: 5009583095940651133
+    second: Drowned_10
+  - first:
+      213: 4973338682268760566
+    second: Drowned_11
+  - first:
+      213: 3514277326107005323
+    second: Drowned_12
+  - first:
+      213: -896388620402362397
+    second: Drowned_13
+  - first:
+      213: -7078250521243912730
+    second: Drowned_14
+  - first:
+      213: -7190941281172849959
+    second: Drowned_15
+  - first:
+      213: 4986831589577716740
+    second: Drowned_16
+  - first:
+      213: 2615852177796349646
+    second: Drowned_17
+  - first:
+      213: -929567836433825413
+    second: Drowned_18
+  - first:
+      213: -7360847953789789623
+    second: Drowned_19
+  - first:
+      213: -4263715429034732506
+    second: Drowned_20
+  - first:
+      213: -1550286167715629174
+    second: Drowned_21
+  - first:
+      213: -8632007268316876561
+    second: Drowned_22
+  - first:
+      213: 1157184316885303744
+    second: Drowned_23
+  - first:
+      213: 7531619940655853279
+    second: Drowned_24
+  - first:
+      213: -4365321253769554648
+    second: Drowned_25
+  - first:
+      213: -3217579266183168313
+    second: Drowned_26
+  - first:
+      213: 5782300330375906246
+    second: Drowned_27
+  - first:
+      213: 1214249757927217757
+    second: Drowned_28
+  - first:
+      213: 8573523564158465465
+    second: Drowned_29
+  - first:
+      213: 1106754082345912730
+    second: Drowned_30
+  - first:
+      213: 7272874281191373050
+    second: Drowned_31
+  - first:
+      213: -3043645546103727449
+    second: Drowned_32
+  - first:
+      213: -8337683798201750404
+    second: Drowned_33
+  - first:
+      213: 3301128817760625936
+    second: Drowned_34
+  - first:
+      213: -1208759206967427557
+    second: Drowned_35
+  - first:
+      213: -5836442014068546694
+    second: Drowned_36
+  - first:
+      213: -2458107730993543063
+    second: Drowned_37
+  - first:
+      213: 5636588311625176457
+    second: Drowned_38
+  - first:
+      213: -8063384661722859484
+    second: Drowned_39
+  - first:
+      213: 4708337460872016702
+    second: Drowned_40
+  - first:
+      213: -6937105558384946895
+    second: Drowned_41
+  - first:
+      213: 5257647745626275084
+    second: Drowned_42
+  - first:
+      213: 3325476874133798363
+    second: Drowned_43
+  - first:
+      213: -3515093805649164151
+    second: Drowned_44
+  - first:
+      213: 5704441441079079262
+    second: Drowned_45
+  - first:
+      213: -5596112994958403858
+    second: Drowned_46
+  - first:
+      213: -8386444169913271753
+    second: Drowned_47
+  - first:
+      213: 3679216732449432586
+    second: Drowned_48
+  - first:
+      213: 2967771558090325916
+    second: Drowned_49
+  - first:
+      213: 5561651760423761435
+    second: Drowned_50
+  - first:
+      213: 6675717942898576866
+    second: Drowned_51
+  - first:
+      213: 285707860124434242
+    second: Drowned_52
+  - first:
+      213: 7156826622478151652
+    second: Drowned_53
+  - first:
+      213: -3825382665675190735
+    second: Drowned_54
+  - first:
+      213: 891016493892633725
+    second: Drowned_55
+  - first:
+      213: 6258418359081475874
+    second: Drowned_56
+  - first:
+      213: 1531511700967820056
+    second: Drowned_57
+  - first:
+      213: 204223458767606043
+    second: Drowned_58
+  - first:
+      213: -4462996229598043922
+    second: Drowned_59
+  - first:
+      213: -220915837411283422
+    second: Drowned_60
+  - first:
+      213: -3538762389225360861
+    second: Drowned_61
+  - first:
+      213: -3464855575877531007
+    second: Drowned_62
+  - first:
+      213: -8150943959758293527
+    second: Drowned_63
+  - first:
+      213: 8020296106633020060
+    second: Drowned_64
+  - first:
+      213: -4977692275259979090
+    second: Drowned_65
+  - first:
+      213: 4198370296815213007
+    second: Drowned_66
+  - first:
+      213: -4122505606242972261
+    second: Drowned_67
+  - first:
+      213: -688793606823764920
+    second: Drowned_68
+  - first:
+      213: -5886674791050391673
+    second: Drowned_69
+  - first:
+      213: -5562956287125491932
+    second: Drowned_70
+  - first:
+      213: 6314281161180315106
+    second: Drowned_71
+  - first:
+      213: 7773634443345239962
+    second: Drowned_72
+  - first:
+      213: -6290239070431167505
+    second: Drowned_73
+  - first:
+      213: -7580354801636309266
+    second: Drowned_74
+  - first:
+      213: 264211396320162945
+    second: Drowned_75
+  - first:
+      213: -1346362824350994918
+    second: Drowned_76
+  - first:
+      213: -6999637338091877527
+    second: Drowned_77
+  - first:
+      213: 74171994025431807
+    second: Drowned_78
+  - first:
+      213: -6462420413299260812
+    second: Drowned_79
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Drowned_0
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 466
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22a0a0e775717060800000000000000
+      internalID: 6949464857739567663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_1
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 461
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ace8409db01caed0800000000000000
+      internalID: -2401526094939755359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_2
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 460
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba748a06ee1d3530800000000000000
+      internalID: 3836256430957296305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_3
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 454
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71dcdfd1782515dc0800000000000000
+      internalID: -3652047082543526633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_4
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 453
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0579cd14aa2debe30800000000000000
+      internalID: 4521282704617805648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_5
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 445
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd1ffe46f7bbe6d0800000000000000
+      internalID: -2960070061550789135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_6
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 456
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f701e0e185be98350800000000000000
+      internalID: 6019601140651266175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_7
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 456
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4329b937972f664d0800000000000000
+      internalID: -3141557086599802316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_8
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 447
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b89b1bac3a5bb8e80800000000000000
+      internalID: -8175240983476061813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_9
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 278
+        width: 180
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d502637554e5150800000000000000
+      internalID: 5863200005755526490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_10
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 435
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78185aa84d958540800000000000000
+      internalID: 5009583095940651133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_11
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 438
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9b6508e29d40540800000000000000
+      internalID: 4973338682268760566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_12
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 437
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8151d0db9835c030800000000000000
+      internalID: 3514277326107005323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_13
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 411
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7f63c8c436f83f0800000000000000
+      internalID: -896388620402362397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_14
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 410
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5780237a005cd90800000000000000
+      internalID: -7078250521243912730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_15
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 396
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dafff60105a43c90800000000000000
+      internalID: -7190941281172849959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_16
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 384
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404f97bc8e8c43540800000000000000
+      internalID: 4986831589577716740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_17
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 343
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecebb7242bf5d4420800000000000000
+      internalID: 2615852177796349646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_18
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 407
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b71cbb25af28913f0800000000000000
+      internalID: -929567836433825413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_19
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 392
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ad2b419c309d990800000000000000
+      internalID: -7360847953789789623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 624580d486d34d4c0800000000000000
+      internalID: -4263715429034732506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_21
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 361
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87bb19b1f64c7ae0800000000000000
+      internalID: -1550286167715629174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_22
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 378
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0f161bf13f43880800000000000000
+      internalID: -8632007268316876561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_23
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 151
+        width: 203
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c10a9351052f0010800000000000000
+      internalID: 1157184316885303744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_24
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 332
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde6a0a8e60b58860800000000000000
+      internalID: 7531619940655853279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 347
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8255a9ab2734b63c0800000000000000
+      internalID: -4365321253769554648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_26
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 313
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce7d7274bcd853d0800000000000000
+      internalID: -3217579266183168313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_27
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 273
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c30ea8b38bde3050800000000000000
+      internalID: 5782300330375906246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_28
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 259
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a1bd1b8b1e9d010800000000000000
+      internalID: 1214249757927217757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_29
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 261
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b53b13d1464bf670800000000000000
+      internalID: 8573523564158465465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_30
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 253
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9901fb59fafb5f00800000000000000
+      internalID: 1106754082345912730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_31
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 261
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af87c7a10a07ee460800000000000000
+      internalID: 7272874281191373050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_32
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 222
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa9942708cc2c5d0800000000000000
+      internalID: -3043645546103727449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_33
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 256
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ca7aea2c89a4c80800000000000000
+      internalID: -8337683798201750404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_34
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 255
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0156d6c6b27ffcd20800000000000000
+      internalID: 3301128817760625936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_35
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 241
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e39b1d7ef993fe0800000000000000
+      internalID: -1208759206967427557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_36
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 234
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a73674739eac00fa0800000000000000
+      internalID: -5836442014068546694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_37
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 244
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9680d72da0c03edd0800000000000000
+      internalID: -2458107730993543063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_38
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 177
+        width: 69
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985998b943f293e40800000000000000
+      internalID: 5636588311625176457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_39
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 231
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428fcae2f5a191090800000000000000
+      internalID: -8063384661722859484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_40
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 235
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e33f0fd89ff575140800000000000000
+      internalID: 4708337460872016702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_41
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 231
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131d31fbf337abf90800000000000000
+      internalID: -6937105558384946895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_42
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 230
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0dff28b4cae6f840800000000000000
+      internalID: 5257647745626275084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_43
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 231
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd758f0997762e20800000000000000
+      internalID: 3325476874133798363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_44
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 219
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9880b1abec0e73fc0800000000000000
+      internalID: -3515093805649164151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_45
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 170
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e513989644f3a2f40800000000000000
+      internalID: 5704441441079079262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_46
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 207
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee69e8c61ec9652b0800000000000000
+      internalID: -5596112994958403858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_47
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 190
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a7ca3f57d5d9b80800000000000000
+      internalID: -8386444169913271753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_48
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 189
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a046255ff143f0330800000000000000
+      internalID: 3679216732449432586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_49
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 165
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f3b761284af2920800000000000000
+      internalID: 2967771558090325916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_50
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 168
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16fb782fc4fe2d40800000000000000
+      internalID: 5561651760423761435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_51
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 163
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2edcb2f791ae4ac50800000000000000
+      internalID: 6675717942898576866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_52
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 175
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ff048f8c907f300800000000000000
+      internalID: 285707860124434242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_53
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 165
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef6ed705e7225360800000000000000
+      internalID: 7156826622478151652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_54
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 149
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e4e7abbb289eac0800000000000000
+      internalID: -3825382665675190735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_55
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 140
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d740c77c7c68d5c00800000000000000
+      internalID: 891016493892633725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_56
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 143
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f95dcc65e5ad650800000000000000
+      internalID: 6258418359081475874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_57
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 110
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b8a8917c5014510800000000000000
+      internalID: 1531511700967820056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_58
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 79
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1115aa572c85d200800000000000000
+      internalID: 204223458767606043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_59
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 97
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee0a6ec33904012c0800000000000000
+      internalID: -4462996229598043922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_60
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 107
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ea7d167362fecf0800000000000000
+      internalID: -220915837411283422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_61
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 4
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 322b5bd2b5ac3eec0800000000000000
+      internalID: -3538762389225360861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_62
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 100
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ac9c9163c5aefc0800000000000000
+      internalID: -3464855575877531007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_63
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 104
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e5bd7677a702ee80800000000000000
+      internalID: -8150943959758293527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_64
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 90
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c924f4dc0d0dd4f60800000000000000
+      internalID: 8020296106633020060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_65
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 104
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa4ce3af3fabeab0800000000000000
+      internalID: -4977692275259979090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_66
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 94
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9d8318a8b934a30800000000000000
+      internalID: 4198370296815213007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_67
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 88
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9dc45b3efae9c6c0800000000000000
+      internalID: -4122505606242972261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_68
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 70
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c95bd2dd9e076f0800000000000000
+      internalID: -688793606823764920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_69
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 75
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78fc13b67745e4ea0800000000000000
+      internalID: -5886674791050391673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_70
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 77
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42febdc0bb86cc2b0800000000000000
+      internalID: -5562956287125491932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_71
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 63
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2edf718f245d0a750800000000000000
+      internalID: 6314281161180315106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_72
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 73
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f9559f65f71eb60800000000000000
+      internalID: 7773634443345239962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_73
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 5
+        width: 74
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: febbaae74e494b8a0800000000000000
+      internalID: -6290239070431167505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_74
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 62
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee68a09687b2dc690800000000000000
+      internalID: -7580354801636309266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_75
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 47
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184f5477ddaaaa300800000000000000
+      internalID: 264211396320162945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_76
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 26
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e64c30522c05de0800000000000000
+      internalID: -1346362824350994918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_77
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 5
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b097a3dea4cde90800000000000000
+      internalID: -6999637338091877527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_78
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 11
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff21b2c1903870100800000000000000
+      internalID: 74171994025431807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drowned_79
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 12
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 472801c9fded056a0800000000000000
+      internalID: -6462420413299260812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Drowned_0: 6949464857739567663
+      Drowned_1: -2401526094939755359
+      Drowned_10: 5009583095940651133
+      Drowned_11: 4973338682268760566
+      Drowned_12: 3514277326107005323
+      Drowned_13: -896388620402362397
+      Drowned_14: -7078250521243912730
+      Drowned_15: -7190941281172849959
+      Drowned_16: 4986831589577716740
+      Drowned_17: 2615852177796349646
+      Drowned_18: -929567836433825413
+      Drowned_19: -7360847953789789623
+      Drowned_2: 3836256430957296305
+      Drowned_20: -4263715429034732506
+      Drowned_21: -1550286167715629174
+      Drowned_22: -8632007268316876561
+      Drowned_23: 1157184316885303744
+      Drowned_24: 7531619940655853279
+      Drowned_25: -4365321253769554648
+      Drowned_26: -3217579266183168313
+      Drowned_27: 5782300330375906246
+      Drowned_28: 1214249757927217757
+      Drowned_29: 8573523564158465465
+      Drowned_3: -3652047082543526633
+      Drowned_30: 1106754082345912730
+      Drowned_31: 7272874281191373050
+      Drowned_32: -3043645546103727449
+      Drowned_33: -8337683798201750404
+      Drowned_34: 3301128817760625936
+      Drowned_35: -1208759206967427557
+      Drowned_36: -5836442014068546694
+      Drowned_37: -2458107730993543063
+      Drowned_38: 5636588311625176457
+      Drowned_39: -8063384661722859484
+      Drowned_4: 4521282704617805648
+      Drowned_40: 4708337460872016702
+      Drowned_41: -6937105558384946895
+      Drowned_42: 5257647745626275084
+      Drowned_43: 3325476874133798363
+      Drowned_44: -3515093805649164151
+      Drowned_45: 5704441441079079262
+      Drowned_46: -5596112994958403858
+      Drowned_47: -8386444169913271753
+      Drowned_48: 3679216732449432586
+      Drowned_49: 2967771558090325916
+      Drowned_5: -2960070061550789135
+      Drowned_50: 5561651760423761435
+      Drowned_51: 6675717942898576866
+      Drowned_52: 285707860124434242
+      Drowned_53: 7156826622478151652
+      Drowned_54: -3825382665675190735
+      Drowned_55: 891016493892633725
+      Drowned_56: 6258418359081475874
+      Drowned_57: 1531511700967820056
+      Drowned_58: 204223458767606043
+      Drowned_59: -4462996229598043922
+      Drowned_6: 6019601140651266175
+      Drowned_60: -220915837411283422
+      Drowned_61: -3538762389225360861
+      Drowned_62: -3464855575877531007
+      Drowned_63: -8150943959758293527
+      Drowned_64: 8020296106633020060
+      Drowned_65: -4977692275259979090
+      Drowned_66: 4198370296815213007
+      Drowned_67: -4122505606242972261
+      Drowned_68: -688793606823764920
+      Drowned_69: -5886674791050391673
+      Drowned_7: -3141557086599802316
+      Drowned_70: -5562956287125491932
+      Drowned_71: 6314281161180315106
+      Drowned_72: 7773634443345239962
+      Drowned_73: -6290239070431167505
+      Drowned_74: -7580354801636309266
+      Drowned_75: 264211396320162945
+      Drowned_76: -1346362824350994918
+      Drowned_77: -6999637338091877527
+      Drowned_78: 74171994025431807
+      Drowned_79: -6462420413299260812
+      Drowned_8: -8175240983476061813
+      Drowned_9: 5863200005755526490
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

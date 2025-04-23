@@ -1,0 +1,372 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0417adda28d3ac4ba4c186595ce2353, type: 3}
+  m_Name: Cthulu
+  m_EditorClassIdentifier: 
+  monsterName: Cthulu
+  monsterDescription: An ancient god fro the depths
+  monsterType: 0
+  monsterIcon: {fileID: 21300000, guid: 155ad341c11f82b43ad31d20d27866f2, type: 3}
+  monsterSprite: {fileID: 21300000, guid: 155ad341c11f82b43ad31d20d27866f2, type: 3}
+  monsterPassiveAbility: {fileID: 11400000, guid: b346d277af103de4e8fbc1200125c53a, type: 2}
+  currentHealthPoints: 200
+  maxHealthPoints: 200
+  currentManaPoints: 100
+  maxManaPoints: 100
+  currentVoidShards: 0
+  maxVoidShards: 15
+  damage: 15
+  arcaneDamage: 25
+  defense: 20
+  arcaneDefense: 10
+  velocity: 30
+  healthPointsIVs: 0
+  manaPointsIVs: 0
+  damageIVs: 0
+  arcaneDamageIVs: 0
+  defenseIVs: 0
+  arcaneDefenseIVs: 0
+  velocityIVs: 0
+  equipableObject: {fileID: 11400000, guid: fefd699e04c9f88488fa232aca437758, type: 2}
+  debuff: 
+  debuffCounter: 0
+  materialAndQuantityToCraftList:
+  - materialToCraft: {fileID: 11400000, guid: 1c7ca1a449b77684d8c05d6e514bf1c6, type: 2}
+    quanity: 4
+  - materialToCraft: {fileID: 11400000, guid: a3d7b3a8e14bc7a49a4ac88dbb415c8d, type: 2}
+    quanity: 2
+  currentLevel: 1
+  currentExp: 0
+  levelSystem:
+  - level: 2
+    experienceToLevelUp: 1000
+  - level: 3
+    experienceToLevelUp: 1020
+  - level: 4
+    experienceToLevelUp: 1042
+  - level: 5
+    experienceToLevelUp: 1064
+  - level: 6
+    experienceToLevelUp: 1086
+  - level: 7
+    experienceToLevelUp: 1109
+  - level: 8
+    experienceToLevelUp: 1132
+  - level: 9
+    experienceToLevelUp: 1156
+  - level: 10
+    experienceToLevelUp: 1180
+  - level: 11
+    experienceToLevelUp: 1205
+  - level: 12
+    experienceToLevelUp: 1230
+  - level: 13
+    experienceToLevelUp: 1256
+  - level: 14
+    experienceToLevelUp: 1283
+  - level: 15
+    experienceToLevelUp: 1310
+  - level: 16
+    experienceToLevelUp: 1337
+  - level: 17
+    experienceToLevelUp: 1365
+  - level: 18
+    experienceToLevelUp: 1394
+  - level: 19
+    experienceToLevelUp: 1423
+  - level: 20
+    experienceToLevelUp: 1453
+  - level: 21
+    experienceToLevelUp: 1484
+  - level: 22
+    experienceToLevelUp: 1515
+  - level: 23
+    experienceToLevelUp: 1547
+  - level: 24
+    experienceToLevelUp: 1579
+  - level: 25
+    experienceToLevelUp: 1612
+  - level: 26
+    experienceToLevelUp: 1646
+  - level: 27
+    experienceToLevelUp: 1681
+  - level: 28
+    experienceToLevelUp: 1716
+  - level: 29
+    experienceToLevelUp: 1752
+  - level: 30
+    experienceToLevelUp: 1789
+  - level: 31
+    experienceToLevelUp: 1827
+  - level: 32
+    experienceToLevelUp: 1865
+  - level: 33
+    experienceToLevelUp: 1904
+  - level: 34
+    experienceToLevelUp: 1944
+  - level: 35
+    experienceToLevelUp: 1985
+  - level: 36
+    experienceToLevelUp: 2027
+  - level: 37
+    experienceToLevelUp: 2069
+  - level: 38
+    experienceToLevelUp: 2113
+  - level: 39
+    experienceToLevelUp: 2157
+  - level: 40
+    experienceToLevelUp: 2202
+  - level: 41
+    experienceToLevelUp: 2249
+  - level: 42
+    experienceToLevelUp: 2296
+  - level: 43
+    experienceToLevelUp: 2344
+  - level: 44
+    experienceToLevelUp: 2393
+  - level: 45
+    experienceToLevelUp: 2444
+  - level: 46
+    experienceToLevelUp: 2495
+  - level: 47
+    experienceToLevelUp: 2547
+  - level: 48
+    experienceToLevelUp: 2601
+  - level: 49
+    experienceToLevelUp: 2655
+  - level: 50
+    experienceToLevelUp: 2711
+  - level: 51
+    experienceToLevelUp: 2768
+  - level: 52
+    experienceToLevelUp: 2826
+  - level: 53
+    experienceToLevelUp: 2886
+  - level: 54
+    experienceToLevelUp: 2946
+  - level: 55
+    experienceToLevelUp: 3008
+  - level: 56
+    experienceToLevelUp: 3071
+  - level: 57
+    experienceToLevelUp: 3136
+  - level: 58
+    experienceToLevelUp: 3202
+  - level: 59
+    experienceToLevelUp: 3269
+  - level: 60
+    experienceToLevelUp: 3338
+  - level: 61
+    experienceToLevelUp: 3408
+  - level: 62
+    experienceToLevelUp: 3479
+  - level: 63
+    experienceToLevelUp: 3552
+  - level: 64
+    experienceToLevelUp: 3627
+  - level: 65
+    experienceToLevelUp: 3703
+  - level: 66
+    experienceToLevelUp: 3781
+  - level: 67
+    experienceToLevelUp: 3860
+  - level: 68
+    experienceToLevelUp: 3941
+  - level: 69
+    experienceToLevelUp: 4024
+  - level: 70
+    experienceToLevelUp: 4109
+  - level: 71
+    experienceToLevelUp: 4195
+  - level: 72
+    experienceToLevelUp: 4283
+  - level: 73
+    experienceToLevelUp: 4373
+  - level: 74
+    experienceToLevelUp: 4465
+  - level: 75
+    experienceToLevelUp: 4559
+  - level: 76
+    experienceToLevelUp: 4654
+  - level: 77
+    experienceToLevelUp: 4752
+  - level: 78
+    experienceToLevelUp: 4852
+  - level: 79
+    experienceToLevelUp: 4954
+  - level: 80
+    experienceToLevelUp: 5058
+  - level: 81
+    experienceToLevelUp: 5164
+  - level: 82
+    experienceToLevelUp: 5273
+  - level: 83
+    experienceToLevelUp: 5383
+  - level: 84
+    experienceToLevelUp: 5496
+  - level: 85
+    experienceToLevelUp: 5612
+  - level: 86
+    experienceToLevelUp: 5730
+  - level: 87
+    experienceToLevelUp: 5850
+  - level: 88
+    experienceToLevelUp: 5973
+  - level: 89
+    experienceToLevelUp: 6098
+  - level: 90
+    experienceToLevelUp: 6226
+  - level: 91
+    experienceToLevelUp: 6357
+  - level: 92
+    experienceToLevelUp: 6491
+  - level: 93
+    experienceToLevelUp: 6627
+  - level: 94
+    experienceToLevelUp: 6766
+  - level: 95
+    experienceToLevelUp: 6908
+  - level: 96
+    experienceToLevelUp: 7053
+  - level: 97
+    experienceToLevelUp: 7201
+  - level: 98
+    experienceToLevelUp: 7353
+  - level: 99
+    experienceToLevelUp: 7507
+  - level: 100
+    experienceToLevelUp: 7665
+  - level: 101
+    experienceToLevelUp: 7826
+  - level: 102
+    experienceToLevelUp: 7990
+  - level: 103
+    experienceToLevelUp: 8158
+  - level: 104
+    experienceToLevelUp: 8329
+  - level: 105
+    experienceToLevelUp: 8504
+  - level: 106
+    experienceToLevelUp: 8683
+  - level: 107
+    experienceToLevelUp: 8865
+  - level: 108
+    experienceToLevelUp: 9051
+  - level: 109
+    experienceToLevelUp: 9241
+  - level: 110
+    experienceToLevelUp: 9435
+  - level: 111
+    experienceToLevelUp: 9633
+  - level: 112
+    experienceToLevelUp: 9836
+  - level: 113
+    experienceToLevelUp: 10042
+  - level: 114
+    experienceToLevelUp: 10253
+  - level: 115
+    experienceToLevelUp: 10469
+  - level: 116
+    experienceToLevelUp: 10688
+  - level: 117
+    experienceToLevelUp: 10913
+  - level: 118
+    experienceToLevelUp: 11142
+  - level: 119
+    experienceToLevelUp: 11376
+  - level: 120
+    experienceToLevelUp: 11615
+  - level: 121
+    experienceToLevelUp: 11859
+  - level: 122
+    experienceToLevelUp: 12108
+  - level: 123
+    experienceToLevelUp: 12362
+  - level: 124
+    experienceToLevelUp: 12622
+  - level: 125
+    experienceToLevelUp: 12887
+  - level: 126
+    experienceToLevelUp: 13158
+  - level: 127
+    experienceToLevelUp: 13434
+  - level: 128
+    experienceToLevelUp: 13716
+  - level: 129
+    experienceToLevelUp: 14004
+  - level: 130
+    experienceToLevelUp: 14298
+  - level: 131
+    experienceToLevelUp: 14598
+  - level: 132
+    experienceToLevelUp: 14905
+  - level: 133
+    experienceToLevelUp: 15218
+  - level: 134
+    experienceToLevelUp: 15538
+  - level: 135
+    experienceToLevelUp: 15864
+  - level: 136
+    experienceToLevelUp: 16197
+  - level: 137
+    experienceToLevelUp: 16537
+  - level: 138
+    experienceToLevelUp: 16884
+  - level: 139
+    experienceToLevelUp: 17239
+  - level: 140
+    experienceToLevelUp: 17601
+  - level: 141
+    experienceToLevelUp: 17971
+  - level: 142
+    experienceToLevelUp: 18348
+  - level: 143
+    experienceToLevelUp: 18733
+  - level: 144
+    experienceToLevelUp: 19127
+  - level: 145
+    experienceToLevelUp: 19529
+  - level: 146
+    experienceToLevelUp: 19939
+  - level: 147
+    experienceToLevelUp: 20357
+  - level: 148
+    experienceToLevelUp: 20785
+  - level: 149
+    experienceToLevelUp: 21221
+  - level: 150
+    experienceToLevelUp: 21667
+  minimumLevelToEvolve: 35
+  materialAndQuantityToEvolveList:
+  - materialToEvolve: {fileID: 11400000, guid: 1c7ca1a449b77684d8c05d6e514bf1c6, type: 2}
+    quanity: 16
+  - materialToEvolve: {fileID: 11400000, guid: a3d7b3a8e14bc7a49a4ac88dbb415c8d, type: 2}
+    quanity: 8
+  monsterEvolution: {fileID: 0}
+  attacksList:
+  - {fileID: 11400000, guid: b840968814432764e82d1790dd785936, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  specialAttacksList:
+  - {fileID: 11400000, guid: 1d77c6267e92b324888626dfaa9375d0, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
